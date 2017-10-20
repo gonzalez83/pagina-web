@@ -5,9 +5,6 @@
     </head>
     <body>
 
-        <?php
-            echo "¡Hola, soy un script de PHP!";
-        ?>
-
+        <h1>Bienvedio a la pawina web de paty</h1>
     </body>
 </html>
